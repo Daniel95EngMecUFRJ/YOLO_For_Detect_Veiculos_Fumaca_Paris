@@ -1,4 +1,13 @@
 # YOLO_For_Detect_Veiculos_Fumaca_Paris
+
+# YOLOv8: Detecção de Veículos e Emissão de Fumaça
+Este notebook aplica o modelo YOLOv8 pré-treinado para detectar veículos e analisar visualmente a emissão de fumaça em imagens urbanas, simulando a identificação de fontes poluentes para fins ambientais.
+
+## Etapas:
+1. Instalação do Ultralytics
+2. Upload da imagem com emissão de fumaça
+3. Inferência com YOLOv8
+4. Visualização e contagem de veículos
 Detectar veículos e identificar aqueles emitindo fumaça preta (indicando alta emissão de poluentes), com contagem automática.
 
 🧠 Como vamos fazer isso?
